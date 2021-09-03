@@ -8,10 +8,10 @@ The workshop covers some basic and fundamental area in Threat Hunting such as :
 
 * Threat Hunting People, Process, and Technology
 * Threat Hunting Framework
-- Pyramid of Pain
-- Cyber Kill Chain
-- MITRE ATT&CK
-* *Detection Engineering
+  - Pyramid of Pain
+  - Cyber Kill Chain
+  - MITRE ATT&CK
+* Detection Engineering
 * Threat Hunting Use Case
 * Threat Intelligence
 * Honeynet for Deception Technology
