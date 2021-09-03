@@ -4,4 +4,20 @@
 
 This is the repository for slide materials of my workshop in ITU about Practical Cyber Threat Hunting. You can find this workshop information at https://www.itu.int/en/ITU-D/Cybersecurity/Pages/CyberDrill-2020/Practical-Cyberthreats-Intelligence-and-Information-Sharing-using-MISP.aspx
 
+The workshop covers some basic and fundamental area in Threat Hunting such as :
 
+a. Threat Hunting People, Process, and Technology
+b. Threat Hunting Framework
+- Pyramid of Pain
+- Cyber Kill Chain
+- MITRE ATT&CK
+c. Detection Engineering
+d. Threat Hunting Use Case
+e. Threat Intelligence
+f. Honeynet for Deception Technology
+
+Some of the Workshop Lab activities :
+1. Hunting Windows Event Log Using DeepblueCLI
+2. Loki Scanner for Hunting IOC
+3. Hunting Persistence Mechanism using Sysinternals Tools Autoruns
+4. Deploying Honeynet using MHN (Modern Honeynet Network)
