@@ -6,15 +6,15 @@ This is the repository for slide materials of my workshop in ITU about Practical
 
 The workshop covers some basic and fundamental area in Threat Hunting such as :
 
-a. Threat Hunting People, Process, and Technology
-b. Threat Hunting Framework
+* Threat Hunting People, Process, and Technology
+* Threat Hunting Framework
 - Pyramid of Pain
 - Cyber Kill Chain
 - MITRE ATT&CK
-c. Detection Engineering
-d. Threat Hunting Use Case
-e. Threat Intelligence
-f. Honeynet for Deception Technology
+* *Detection Engineering
+* Threat Hunting Use Case
+* Threat Intelligence
+* Honeynet for Deception Technology
 
 Some of the Workshop Lab activities :
 1. Hunting Windows Event Log Using DeepblueCLI
